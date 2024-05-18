@@ -1,2 +1,3 @@
 # code.first
-this is my first repositiry
+this is my first repository
+
